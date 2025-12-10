@@ -1,6 +1,6 @@
 {
   "name": "@gaqno-dev/config",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -12,7 +12,7 @@
     "./typescript": "./tsconfig.json"
   },
   "peerDependencies": {
-    "eslint": "^8.0.0",
+    "eslint": "^8.0.0 || ^9.0.0",
     "tailwindcss": "^3.0.0",
     "typescript": "^5.0.0"
   },
